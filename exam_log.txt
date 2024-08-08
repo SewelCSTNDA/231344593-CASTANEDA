@@ -1,0 +1,415 @@
+   0 pkg install proot-distro
+   1 apt update
+   2 sudo apk update
+   3 doas
+   4 ?
+   5 help
+   6 apk update
+   7 apk upgrade
+   8 install proot-distri
+   9 install proot-distro
+  10 apk install proot-distro
+  11 apk --help
+  12 apk add proot-distro
+  13 apk add apache2
+  14 apache2 start
+  15 start apache2
+  16 rc-service apache2
+  17 apk add openrc --no-cache
+  18 git
+  19 apk add java
+  20 apk add openrx --no-cache
+  21 apk search git
+  22 apk add git
+  23 git
+  24 git clone https://github.com/SewelCSTNDA/231344593-CASTANEDA.git
+  25 ls
+  26 git clone https://github.com/SewelCSTNDA/231344593-CASTANEDA
+  27 git clone https://github.com/SewelCSTNDA/231344593-CASTANEDA.git
+  28 ls
+  29 git help
+  30 git clone
+  31 git clone https://github.com/SewelCSTNDA/231344593-CASTANEDA.git
+  32 git clone https://github.com/SewelCSTNDA/231344593-CASTANEDA.git https://github.com/SewelCSTNDA/231344593-CASTANEDA.git
+  33 git clone downloads https://github.com/SewelCSTNDA/231344593-CASTANEDA.git
+  34 git clone 
+  35 git clone https://github.com/SewelCSTNDA/231344593-CASTANEDA.git downloads
+  36 git clone https://github.com/SewelCSTNDA/231344593-CASTANEDA.git download
+  37 git clone https://github.com/SewelCSTNDA/231344593-CASTANEDA.git https://github.com/SewelCSTNDA/231344593-CASTANEDA.git
+  38 git clone https://github.com/SewelCSTNDA/231344593-CASTANEDA.git root
+  39 apk add gh
+  40 apk add openrc 
+  41 git clone https://github.com/SewelCSTNDA/231344593-CASTANEDA.git
+  42 start apache2
+  43 apache 2 start
+  44 apk add gh
+  45 apk search gh
+  46 rc-service
+  47 rc-service apache2 start
+  48 rc-service apache2 status
+  49 apache ctl status
+  50 r-service apache2 ctl status
+  51 rc-service apache2
+  52 apache
+  53 apache2
+  54 rc-service apache2 describe
+  55 git help
+  56 git clone https://github.com/micac01/232311201-CRUZ.git
+  57 git status
+  58 ak search java
+  59 apk search java
+  60 apk add java
+  61 apk add openjdk
+  62 apk add openjdk11
+  63 apk add openjdk7
+  64 jaca
+  65 java
+  66 reboot
+  67 java
+  68 java -ms128 -mx1g --version
+  69 java -ms128
+  70 java -mx512m
+  71 java
+  72 java -ms128
+  73 java -ms128 -mx512m
+  74 java -version
+  75 java -mx256m -version
+  76 hava
+  77 java
+  78 java -mx256m
+  79 java -mx512m
+  80 java
+  81 java -mx512m -version
+  82 cd
+  83 dir
+  84 tree
+  85 cd DemoFiles
+  86 ls
+  87 cd 231344593-CASTANEDA
+  88 ls
+  89 cd DemoFiles 
+  90 ls
+  91 cd ..
+  92 cd clonedrep
+  93 ls
+  94 cd demofiles
+  95 ls
+  96 java File file = new File("JavaFile")
+  97 java
+  98 cd /
+  99 app remove openjdk7
+ 100 apk remove openjdk7
+ 101 apk
+ 102 apk del ooenjdk7
+ 103 apk del openjdk7
+ 104 apk add openjdk8
+ 105 ls
+ 106 rm 231344593-CASTANEDA
+ 107 rmdir 231344593-CASTANEDA
+ 108 rmdir -rf 231344593-CASTANEDA
+ 109 rmdir -help
+ 110 rmdir
+ 111 rmdir --ignore-fail-on-non-empty 231344593-CASTANEDA
+ 112 la
+ 113 ls
+ 114 rmdir 231344593-CASTANEDA
+ 115 rmdir -r 231344593-CASTANEDA
+ 116 rm
+ 117 rm 231344593-CASTANEDA
+ 118 cd 231344593-CASTANEDA
+ 119 ls
+ 120 rm example.txt
+ 121 ls
+ 122 cd clonedrep
+ 123 ls
+ 124 rm newtxtfile.txt
+ 125 ls
+ 126 cd demofiles
+ 127 ls
+ 128 rm phpinfo.pho
+ 129 ls
+ 130 cd ..
+ 131 ls
+ 132 rmdir demofiles
+ 133 rmdir batchfiles
+ 134 cd demofiles
+ 135 ls
+ 136 rm phpinfo.php
+ 137 cd..
+ 138 cd ..
+ 139 git pull
+ 140 cd 231344593-CASTANEDA
+ 141 git pull
+ 142 ls
+ 143 cd DemoFiles
+ 144 ls
+ 145 java Main.java
+ 146 java Main
+ 147 javac Main.java
+ 148 java
+ 149 java -mx512m
+ 150 java -64
+ 151 apk add python2
+ 152 java -ms512m -mx1g -version
+ 153 dir
+ 154 la
+ 155 ls
+ 156 cd 231344593-CASTANEDA
+ 157 ls
+ 158 cd DemoFiles
+ 159 ls
+ 160 java -ms512m phpinfo.php
+ 161 java -ms512m Main.java
+ 162 ls
+ 163 rm -r 231344593-CASTANEDA 
+ 164 ls
+ 165 git clone https://github.com/SewelCSTNDA/231344593-CASTANEDA.git
+ 166 ls
+ 167 cd 231344593-CASTANEDA
+ 168 ls
+ 169 cd DemoFiles
+ 170 ls
+ 171 java -ms512m Main.class
+ 172 java 1ms512m Main
+ 173 java -mx512m Main
+ 174 apk ?
+ 175 apk -?
+ 176 apk update openjdk8
+ 177 apk upgrade openjdk8
+ 178 java -mx512m Main
+ 179 java -mx512m -mx1g Main
+ 180 java -?
+ 181 java -mx512m -?
+ 182 java -mx512m -target 8 -source 8 Main
+ 183 apk search openjdk
+ 184 apk search java
+ 185 exit
+ 186 apk search python
+ 187 apk add python2
+ 188 apk add python3
+ 189 apk add python2
+ 190 apk add nano
+ 191 nano
+ 192 apache2
+ 193 service apache2
+ 194 service apache2 describe
+ 195 service apache2 start
+ 196 apk update
+ 197 apk upgrade
+ 198 service apache2 start
+ 199 rc-service apache2 start
+ 200 python
+ 201 apk search mysql
+ 202 apk add mysql
+ 203 mysql
+ 204 select
+ 205 mkdur
+ 206 mkdir
+ 207 md
+ 208 mv
+ 209 rm
+ 210 touch
+ 211 cat
+ 212 ls
+ 213 chmod
+ 214 ls ?
+ 215 ls -?
+ 216 ch
+ 217 ifconfig
+ 218 ls -sh
+ 219 kill
+ 220 ps
+ 221 netstat
+ 222 ifconfig
+ 223 ifconfig -?
+ 224 dir
+ 225 directory
+ 226 rc-service
+ 227 java
+ 228 apk search javac
+ 229 apak search java
+ 230 apk search java
+ 231 openjdk8
+ 232 java -?
+ 233 java -mx512m -?
+ 234 java -mx512m -version
+ 235 pythnon3
+ 236 python3
+ 237 cd 231344593-CASTANEDA
+ 238 cd DemoFiles
+ 239 ls
+ 240 nano Main.class
+ 241 nano phpinfo.php
+ 242 cat phpinfo.php
+ 243 Examples
+ 244 python
+ 245 touch
+ 246 touch dnake.py
+ 247 ls
+ 248 python dnake.py
+ 249 python -?
+ 250 python dnake.py
+ 251 python
+ 252 python dnake
+ 253 python dnake.py
+ 254 nano dnake.py
+ 255 python dnake.py
+ 256 exit
+ 257 apk search opengh
+ 258 apk search gh
+ 259 history -c
+ 260 history -?
+ 261 history
+ 262 history -?
+ 263 history ?
+ 264 ls
+ 265 rm -r 231344593-CASTANEDA
+ 266 ls
+ 267 pwd
+ 268 clr
+ 269 cls
+ 270 exit
+ 271 history -c
+ 272 git pull https://github.com/SewelCSTNDA/231344593-CASTANEDA.git
+ 273 git clone https://github.com/SewelCSTNDA/231344593-CASTANEDA.git
+ 274 ls
+ 275 cd 231344593-CASTANEDA
+ 276 ls
+ 277 exit
+ 278 ls
+ 279 cd 231344593-CASTANEDA
+ 280 mkdir linux_practice
+ 281 ls
+ 282 cd linux_practice
+ 283 touch notes.txt
+ 284 ls
+ 285 ls > notes.txt
+ 286 cat notes.txt
+ 287 nano notes.txt
+ 288 touch "This is a practical exam" > notes.txt
+ 289 head notes.txt
+ 290 tail notes.txt
+ 291 mkdirsubdir
+ 292 mkdir subdir
+ 293 mv notes.txt subdir
+ 294 mv subdir practice_subdir
+ 295 cd
+ 296 ls
+ 297 cd 231344593-CASTANEDA
+ 298 ls
+ 299 cd linux_practice
+ 300 ls
+ 301 cd practice_subdir
+ 302 ls
+ 303 mv notes.txt linux_practice
+ 304 cd ..
+ 305 ls
+ 306 cd practice_subdir
+ 307 ls
+ 308 cat linux_practice
+ 309 mv linux_practice notes.txt
+ 310 ls
+ 311 cat notes.txt
+ 312 mv notes.txt > linux_practice
+ 313 mv notes.txt linux_practice
+ 314 ls
+ 315 time -s
+ 316 time
+ 317 date
+ 318 date -?
+ 319 date -s
+ 320 date -d
+ 321 date -d TIME
+ 322 date
+ 323 chdisk
+ 324 chdk
+ 325 cd ..
+ 326 rm -r practice_subdir
+ 327 ls
+ 328 rm This is a practical exam
+ 329 touch "hello" > hi.txt
+ 330 ls
+ 331 cat hi.txt
+ 332 rm hu.txt
+ 333 rm hi.txt
+ 334 touch -?
+ 335 touch hello > hello.txt
+ 336 ls
+ 337 cat hello.txt
+ 338 nano hello.txt
+ 339 touch notes.txt
+ 340 ls
+ 341 rm hello.txt
+ 342 rm hello
+ 343 la
+ 344 ls
+ 345 rm This
+ 346 nano This is a practical exam
+ 347 ls
+ 348 rm This
+ 349 ls > notes.txt
+ 350 cat notes.txt
+ 351 nano notes.txt
+ 352 head notes.txt
+ 353 tail notes.txt
+ 354 echo
+ 355 echo "This is a practical exam" > notes.txt
+ 356 cat notes.exam
+ 357 ls
+ 358 cat notes.txt
+ 359 head notes.txt
+ 360 tail notes.txt
+ 361 mkdir subdir
+ 362 mv notes.txt subdir
+ 363 ls
+ 364 cd subdir
+ 365 ls
+ 366 cd ..
+ 367 mv subdir practice_subdir
+ 368 ls
+ 369 cd practice_subdir
+ 370 la
+ 371 ls
+ 372 mv notes.txt linux_practice
+ 373 ls
+ 374 cd ..
+ 375 date
+ 376 SSH
+ 377 PHo
+ 378 PHP
+ 379 service SSH -version
+ 380 service PHP -version
+ 381 service apache2 -version
+ 382 service
+ 383 service apache -version
+ 384 service apache version
+ 385 service apache2 version
+ 386 service apache ?
+ 387 service apache2 -?
+ 388 service apache2 --version
+ 389 service apache2 -V
+ 390 service apache2 --version describe
+ 391 python -version
+ 392 python -h
+ 393 python -V
+ 394 java -mx512m -version
+ 395 service apache2 -V
+ 396 rc-service apache2 -V
+ 397 service apache2 -V start
+ 398 share window
+ 399 apache2
+ 400 service --version apache2
+ 401 service apache2 --version 
+ 402 apk add openssh
+ 403 hostname
+ 404 hostname -?
+ 405 hostname help
+ 406 hostname -V
+ 407 hostname --version
+ 408 history
+ 409 history -?
+ 410 history help
+ 411 history -d
+ 412 rm ~/.ash_history
+ 413 history
+ 414 history > history.txt
